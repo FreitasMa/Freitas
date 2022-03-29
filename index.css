@@ -1,0 +1,79 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.title {
+    background-image: url(../Resorces/Images/pattern.webp);
+    color: khaki;
+    font-size: 100px;
+    font-weight: bold;
+    margin: 70px 5px 20px 5px;
+    text-align: center;
+
+}
+
+.brushes {
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: mediumspringgreen;
+    margin: 20px 5px 20px 5px;
+
+}
+
+.frames {
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: lightcoral;
+    margin: 20px 5px 20px 5px;
+}
+
+.paint {
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: skyblue;
+    margin: 20px 5px 20px 5px;
+
+}
+
+.figdescription {
+    font-weight: bold;
+    margin: 0px 5px 20px 5px;
+
+}
+
+.prices {
+    font-weight: bold;
+    color: blue;
+    margin: 20px 5px 20px 5px;
+}
+
+p {
+    display: inline;
+    margin: 20px 5px 20px 5px;
+}
+
+img {
+    margin: 20px 5px 0 5px;
+}
+
+.navbar {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    color: khaki;
+    font-weight: bold;
+    background-color:lightsalmon;
+    
+}
+
+.navbar li {
+    font-weight: bold;
+    display: inline-block;
+    padding: 0 12%;
+    text-align: center;
+    margin: 0 auto;
+}
